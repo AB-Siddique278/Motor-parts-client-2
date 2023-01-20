@@ -7,7 +7,7 @@ const Wholesaler = () => {
             _id: 1,
             name: 'Honda',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,.',
-            img:"https://motosymbol.com/wp-content/uploads/2021/02/Honda-Logo.jpg"
+            img:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Honda_Logo.svg/2552px-Honda_Logo.svg.png"
           
         },
         {
